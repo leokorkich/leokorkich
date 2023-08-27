@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Levan</h1>
+<h1 align="center">Hi!!! I'm Levan</h1>
 <h3 align="center">A passionate iOS developer from Saqartvelo</h3>
 
 - 🔭 I’m currently working on **MixifyParty**
