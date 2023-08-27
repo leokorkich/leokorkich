@@ -3,20 +3,16 @@
 
 - 🔭 I’m currently working on **MixifyParty**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, AI**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/levan-korkia-499b19256](www.linkedin.com/in/levan-korkia-499b19256)
+- 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 📫 How to reach me **leqorqia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16FazFkWobnOMLDjjXHOJ8Ui5DOmWAOtC/view?usp=drive_link](https://drive.google.com/file/d/16FazFkWobnOMLDjjXHOJ8Ui5DOmWAOtC/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/levan korkia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levan korkia" height="30" width="40" /></a>
-<a href="https://fb.com/levan qorqia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="levan qorqia" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/levan-korkia-499b19256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levan korkia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100083345408422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="levan qorqia" height="30" width="40" /></a>
 <a href="https://instagram.com/le.qorqia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="le.qorqia" height="30" width="40" /></a>
 </p>
 
