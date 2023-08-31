@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact: **I think I'm funny**
 
+![Image alt](https://github.com/leokorkich/leokorkich/blob/main/doggo.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/levan-korkia-499b19256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levan korkia" height="30" width="40" /></a>
