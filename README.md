@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact: **I think I'm funny**
 
-![Image alt](https://github.com/leokorkich/leokorkich/blob/main/doggo.jpg?sanitize=true&raw=true&size=120)
+<img src="https://github.com/leokorkich/leokorkich/raw/main/doggo.jpg" alt="Image alt" width="25%" height="25%">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
