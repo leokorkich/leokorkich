@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I think I'm funny**
 
-![Image alt](https://github.com/leokorkich/leokorkich/blob/main/doggo.jpg?sanitize=true&raw=true&size=320)
+![Image alt](https://github.com/leokorkich/leokorkich/blob/main/doggo.jpg?sanitize=true&raw=true&size=120)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
