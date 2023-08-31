@@ -1,16 +1,19 @@
 <h1 align="center">Hi!!! I'm Levan</h1>
 <h3 align="center">A passionate iOS developer from Saqartvelo</h3>
 
-- 🔭 I’m currently working on **MixifyParty**
-
-- 🌱 I’m currently learning **Swift, SwiftUI**
-
-- 📫 How to reach me **leqorqia@gmail.com**
-
-- ⚡ Fun fact: **I think I'm funny**
-
-<img src="https://github.com/leokorkich/leokorkich/raw/main/doggo.jpg" alt="Image alt" width="25%" height="25%">
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>MixifyParty</strong></li>
+      <li>🌱 I’m currently learning <strong>Swift, SwiftUI</strong></li>
+      <li>📫 How to reach me <strong>leqorqia@gmail.com</strong></li>
+      <li>⚡ Fun fact: <strong>I think I'm funny</strong></li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/leokorkich/leokorkich/raw/main/doggo.jpg" alt="Image alt" width="100%" height="auto">
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
