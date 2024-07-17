@@ -1,9 +1,9 @@
 <h1 align="center">Hi!!! I'm Levan</h1>
 <h3 align="center">A passionate iOS developer from Saqartvelo</h3>
 
-- 🔭 I’m currently working on **MixifyParty**
+- 🔭 I’m currently working on **Pr0paganda**
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **leqorqia@gmail.com**
 
